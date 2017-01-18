@@ -1,0 +1,13 @@
+/* This is where all our non bootstrap styling will go */
+
+.fineprint{
+	font-size: 12px;
+	position: absolute;
+	bottom:50px;
+	right:50%;
+	transform: translateX(50%);
+}
+
+#footer-content {
+	position: relative;
+}
