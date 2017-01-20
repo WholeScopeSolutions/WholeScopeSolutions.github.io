@@ -1,27 +1,26 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+## Contributing
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+There are two ways to contribute to this project. The first does not require collaborator permissions.
 
-## Getting Started
+1) Fork & Merge
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
-* Fork the repo
-* Your must enter your database information and your email in form-handler.php - if you don't have a database, that's fine.  Edit contact.html to direct the form to form-handler-nodb.php and emails will be sent with no database writes.
+- Fork [the main repository](https://github.com/WholeScopeSolutions/WholeScopeSolutions.github.io/) to your GitHub account
+- Clone your fork
+- Make any changes (locally)
+- Commit and push your changes (locally)
+- Go back to [the main repository](https://github.com/WholeScopeSolutions/WholeScopeSolutions.github.io/) and click 'New pull request'
 
-## Bugs and Issues
+At this point, your changes have been submitted for approval. To sync your fork, local, and upstream repositories:
+- Create an [upstream remote locally](git command line; see https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+- Pull from upstream (git command line)
+- Push to origin
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
+2) Branch & Merge
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+- Log in to the WholeScopeSolutions account, and make yourself a collaborator
+- Clone [the main repository](https://github.com/WholeScopeSolutions/WholeScopeSolutions.github.io/)
+- Create a new branch, and make any changes
+- Merge your branch back into master (no one should be able to commit to master)
 
 ## Copyright and License
 
