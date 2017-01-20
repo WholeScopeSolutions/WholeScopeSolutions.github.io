@@ -11,7 +11,7 @@ There are two ways to contribute to this project. The first does not require col
 - Go back to [the main repository](https://github.com/WholeScopeSolutions/WholeScopeSolutions.github.io/) and click 'New pull request'
 
 At this point, your changes have been submitted for approval. To sync your fork, local, and upstream repositories:
-- Create an [upstream remote locally](git command line; see https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+- Create an [upstream remote locally](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 - Pull from upstream (git command line)
 - Push to origin
 
